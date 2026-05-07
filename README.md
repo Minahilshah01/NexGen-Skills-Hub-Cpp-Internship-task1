@@ -4,9 +4,9 @@ This repository contains the Week 1 internship task for C++ Development at NexGe
 # C++ Fundamentals & Logic Building Program
 
 ## Features:
-- Calculator: Performs basic arithmetic operations (Add, Subtract, Multiply, Divide).
-- Number Checker: Checks if a number is Even/Odd and Prime.
-- Grading System: Assigns grades based on user marks using conditional logic.
+- **Calculator:** Performs basic arithmetic operations (Add, Subtract, Multiply, Divide).
+- **Number Checker:** Checks if a number is Even/Odd and Prime.
+- **Grading System** Assigns grades based on user marks using conditional logic.
 
 ## Concepts Used:
 - Variables and Data Types
